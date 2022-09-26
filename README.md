@@ -1,4 +1,4 @@
-# Aplikasi-absensi-dan-jurnal-Untuk-Ma-dan-Mts
+# Aplikasi absensi dan jurnal Untuk Ma dan Mts
 
 Aplikasi absensi dan jurnal Untuk Ma dan Mts
 
