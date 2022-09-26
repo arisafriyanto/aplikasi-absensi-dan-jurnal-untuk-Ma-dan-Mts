@@ -1,0 +1,90 @@
+Guru MA
+{jurnal_Ma}
+    ->id_jurnal
+    ->nama
+    ->mapel
+        ->Al Qur'an Hadits
+            Pendidikan Kewarganegaraan
+            Akidah Akhlak
+            Nahwu Shorof
+            Prakarya
+            Pendidikan Jasmani, Olahraga, dan Kesehatan
+            Fikih
+            Matematika
+            Seni Budaya
+            SKI
+            Tahfidz Qur'an
+            Bahasa Inggris
+            BTQ
+            Bahasa Indonesia
+            Bahasa Arab
+            SOSIOLOGI
+            GEOGRAFI
+            EKONOMI
+            SEJARAH
+            SEJARAH INDONESIA
+    ->status
+        ->guru pengajar
+            guru pengganti
+            pengajar & pengganti
+    ->jam ke berapa mengajar
+        ->1, 2, 3, 4, 5, 6, 7, 8
+    ->materi/pokok bahasan
+        ->kelas 10
+            kelas 11
+            kelas 12
+{Absen Ma}
+    ->id
+    ->nama
+    ->total jam mengajar 1 hari
+    ->jam mengajar jam keberapa
+
+
+Terimakasih telah berpartisipasi 
+dalam mencerdaskan siswa-siswi 
+MA Bani Ma'mun Assalami Kibin.
+
+    
+
+Guru MTS
+{jurnal_mts}
+    ->id
+    ->nama
+    ->mapel
+        ->Al Qur'an Hadits
+            Pendidikan Kewarganegaraan
+            Akidah Akhlak
+            Nahwu Shorof
+            Prakarya
+            Pendidikan Jasmani, Olahraga, dan Kesehatan
+            Fikih
+            Matematika
+            Seni Budaya
+            SKI
+            Tahfidz Qur'an
+            Bahasa Inggris
+            BTQ
+            Bahasa Indonesia
+            Bahasa Arab
+            IPA
+            IPS
+    ->jam
+        ->1, 2, 3, 4, 5, 6, 7, 8
+    ->status
+        ->guru pengajar
+            guru pengganti
+    ->materi/pokok bahasan
+        ->kelas 7
+            kelas 8
+            kelas 9
+{Absen Ma}
+    ->id
+    ->nama
+    ->total jam mengajar 1 hari
+    ->jam mengajar jam keberapa
+
+
+
+Terimakasih telah berpartisipasi 
+dalam mencerdaskan siswa-siswi 
+MTs SA Bani Ma'mun Assalami.
