@@ -47,7 +47,7 @@ Cara penggunaan aplikasi:
 - clone project
 - simpan di htdocs jika menggunakan xampp
 - buat database dengan nama aplikasi_perpustakaan_sekolah
-- import file database yang ada di folder database/aplikasi_perpustakaan_sekolah.sql
+- import file database yang ada di folder database/banimass.sql
 - login aplikasi untuk admin
   - username : aris
   - password : 1111
